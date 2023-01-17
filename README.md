@@ -14,4 +14,4 @@
 	<img src="https://img.shields.io/badge/-Vue.js-darkgreen?style=for-the-badge">
 </div>
 <br>
-![Solved.ac Profile] (http://mazassumnida.wtf/api/generate_badge?boj=loadine1224)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=loadine1224)](https://solved.ac/loadine1224)
