@@ -13,5 +13,3 @@
 	<img src="https://img.shields.io/badge/-Vue.js-darkgreen?style=for-the-badge">
 </div>
 <br>
-
-[![solve.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=loadine1224)](https://solved.ac/profile/loadine1224)
