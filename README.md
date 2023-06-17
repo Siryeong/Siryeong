@@ -10,6 +10,6 @@
 	<img src="https://img.shields.io/badge/-c/c++-red?style=for-the-badge">
 	<img src="https://img.shields.io/badge/-Java-yellow?style=for-the-badge">
 	<img src="https://img.shields.io/badge/-Spring-green?style=for-the-badge">
-	<img src="https://img.shields.io/badge/-React.js-blue?style=for-the-badge">
+<!-- 	<img src="https://img.shields.io/badge/-React.js-blue?style=for-the-badge"> -->
 </div>
 <br>
